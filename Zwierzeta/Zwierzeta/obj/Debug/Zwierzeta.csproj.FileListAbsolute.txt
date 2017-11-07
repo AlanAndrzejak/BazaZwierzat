@@ -1,0 +1,6 @@
+c:\users\dzerry\documents\visual studio 2017\Projects\Zwierzeta\Zwierzeta\bin\Debug\Zwierzeta.exe.config
+c:\users\dzerry\documents\visual studio 2017\Projects\Zwierzeta\Zwierzeta\bin\Debug\Zwierzeta.exe
+c:\users\dzerry\documents\visual studio 2017\Projects\Zwierzeta\Zwierzeta\bin\Debug\Zwierzeta.pdb
+c:\users\dzerry\documents\visual studio 2017\Projects\Zwierzeta\Zwierzeta\obj\Debug\Zwierzeta.csprojResolveAssemblyReference.cache
+c:\users\dzerry\documents\visual studio 2017\Projects\Zwierzeta\Zwierzeta\obj\Debug\Zwierzeta.exe
+c:\users\dzerry\documents\visual studio 2017\Projects\Zwierzeta\Zwierzeta\obj\Debug\Zwierzeta.pdb
